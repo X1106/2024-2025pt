@@ -1,5 +1,5 @@
 <template>
-  <v-container>
+  <v-container style="max-width:1200px;">
     <v-row  justify="center" align-content="center">
       <v-col style="height: 350px;"  class="mb-16" cols="12">
         <v-img src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg" height="97%" cover></v-img>

@@ -1,5 +1,5 @@
 <template>
-<v-container>
+<v-container style="max-width:1200px;">
     <v-row  align-content="center" style="height: 650px;">
         <v-col cols="12" xl="4" lg="4" md="4" sm="12" > 
                 <h1 class="text-h2 ">Creator Page</h1>
@@ -69,7 +69,7 @@
         </v-col>
     </v-row>
     </v-sheet>
-        <v-sheet  min-height="750" class=" mb-10">
+        <v-sheet  min-height="750" class=" mb-16">
         <v-row align-content="center" justify="center"> 
             <v-col  class="px-md-16 pt-md-7" cols="11"  xl="6" lg="6" md="6" sm="11" >
                 <v-row>
@@ -110,7 +110,7 @@
             </v-col>
         </v-row>
         </v-sheet>
-        <v-sheet min-height="600" width="100%" >
+        <v-sheet min-height="600" width="100%"  >
     <v-row align-content="center"  justify="center" class="bg-grey-lighten-5 blue" >
         <v-col  cols="12"  xl="6" lg="6" md="6" sm="12" class=" px-md-12">
         </v-col>
